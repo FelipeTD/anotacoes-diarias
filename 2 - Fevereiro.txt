@@ -1,0 +1,323 @@
+01/02/2024
+	Estudo sobre design patterns
+		Decorator
+	Enviar documentos que estão faltando para novo emprego
+	Entrevista Dexian
+		Preparar para entrevista
+		Pontos para serem feitos com antecedencia
+			Entrar no link da entrevista com 5 minutos de antecedência. Já ter testado o áudio, webcam, e estar em um local apropriado e silencioso.
+				OK
+
+			Caso tenha perguntas que não domine, não se preocupe, diga que não sabe e segue o bate papo, não vamos tentar enrolar nas respostas.
+				OK
+
+			Foco naquilo que é o seu forte, é assim que vai mostrar seu conhecimento.
+				Spring Boot
+				AWS
+
+			Se preparar para entrevista trazendo cases de sucesso, de acordo com a descrição da posição em questão.
+				Java 8+, Git, Spring Boot, Design Patterns, SOLID, Restful, Testes unitários e testes integrados;
+				Metodologias Ágeis;
+				Conhecimentos em Banco de dados SQL.
+				
+				***Será um diferencial seu perfil com:
+				Conhecimentos em Banco de dados NoSQL;
+					Banco Itaú (Zup Innovation)
+						Propostas eram salvas no DynamoDB para auditoria dos dados caso necessário
+
+				Conhecimento em soluções de cache (Redis);
+					Banco do Brasil (Nova tendência)
+						Propostas de seguros eram salvas no redis depois de acessadas para a segunda vez que forem acessadas ser mais rápido
+
+				Experiência com programação funcional e reativa; Kotlin; Groovy;
+					Fiz estou do Kotlin para aprender a linguagem
+
+				Experiência em Micro Serviços, CI/CD e mensageria;
+					Banco Itaú (Zup Innovation)
+						Todo o projeto da esteira rural foi feita com microservices fazendo a ligação via API Gateway
+							Era dividido em encarteiramento (Fargate), desembolso (Fargate), recebimento (Fargate) e consulta atrasos (lambda)
+						CI/CD
+							Utilizado o CodePepiline da AWS
+							Em projetos pessoais eu utilizo o GitHub Actions
+						Mensageria
+							Utilizado o SNS para envio de mensagens pela AWS
+							Na Sinqia tinhamos uma mensageria por mensagens da AWS e também envio de mensagens de texto se estiver configurado no cliente
+
+				Ferramentas de monitoria (Splunk, New Relic);
+					Banco Itaú (Zup Innovation)
+						Era utilizado o splunk juntamento com o grafana
+				Conhecimento em ferramentas de ETL.
+					Não tenho conhecimento
+
+			Ter em mente situações problemas e como resolveu, eles podem perguntar qual foi seu maior desafio.
+				Aprender React Native e entregar demandas ao mesmo tempo que aprendia
+
+			Apesar de ser uma entrevista virtual, sugerimos cuidar das vestimentas e local.
+				OK
+
+			Pesquisar sobre o cliente e anotar possíveis dúvidas para fazer no final da entrevista.
+	Estudo DIO
+		Desafio HTML e CSS
+		Desafio concluido
+
+02/02/2024
+	Estudo sobre design patterns
+		Proxy
+	Reunião Thomson Reuters
+		Remarcado para segunda-feira mesmo horário 17 horas
+	Reunião Pismo
+		Auxilio home office 200
+		vr va 1480
+		saude e odonto bradesco
+		estudo de idiomas
+		seguro de vida
+		dayoff
+		certificações AWS
+		Sem PLR
+		2 etapas
+			Entrevista team manager
+			Case para desenvolvimento
+	Reunião B2
+		Foi passado um teste para entregar até dia 07/02
+		O objetivo deles é realizar uma transção bancaria em menos de 1 segundo
+	Dexian
+		Projeto do boticario
+		Fui aprovado no processo
+		Começo no dia 19/02
+		Tive que desistir da vaga da caixa pela globalweb
+	Projeto de Spring do José Ricardo
+		Fiz alguns ajustes no projeto
+
+03/02/2024
+	Estudo sobre design patterns
+		Composite
+	Estudo DIO
+		Javascript
+			Modulo3
+				3 aulas
+					Primeiros passos Javascript
+					Funcoes
+					Classes
+
+04/02/2024
+	Estudo sobre design patterns
+		Facade
+	Estudo DIO
+		Javascript
+			Modulo de javascript finalizado
+
+05/02/2024
+	Estudo sobre design patterns
+		FlyWeight
+	Estudo DIO
+		Lógica de programação
+
+06/02/2024
+	Reunião Merlim
+		Algumas perguntas sobre linguagens
+		Ultima pergunta era para criar uma infra com ecommer frontend, estoque e produto
+			Frontend com Angular, NextJS ou ReactJS. 
+			Produto Spring Boot fargate. 
+			Estoque Lambda. 
+	Ajuda ao José Ricardo para fazer o projeto de Spring Boot funcionar
+	Estudo sobre design patterns
+		Chain of Responsability
+	Estudo DIO
+		Finalização do modulo 5 sobre javascript
+
+07/02/2024
+	Estudo sbre design patterns
+		Command
+	Reunião vsgroup (Banco Inter) 10:30
+		Entrevista RH e Técnica
+		Projeto de onboarding 
+		Bem parecido com o projeto do Itaú
+		Várias perguntas sobre Java, AWS, Design Patterns, SOLID etc
+	Reunião Trimble 15:00
+		Reunião totalmente em inglês
+		Projeto de frota de carros
+		Stacks principais Java e Spring Boot
+		Salario 3000 dolares
+	Estudio DIO
+		Desafios
+		Fazendo o primeiro jogo Detona Ralph
+
+08/02/2024
+	Estudo sobre design patterns
+		Iterator
+	Estudo DIO
+		Primeiro jogo em javascript Finalização
+	Abrir conta no Santander
+
+09/02/2024
+	Exame admissional Dexian
+	Abertura de conta no Santander
+	Reunião para vaga na arcelormital
+		Final da reunião foi em inglês
+		Consegui responder todas as questões
+		Proposta de R$12000
+		Precisa viajar para a França para entregar o projeto
+	Estudo sobre design patterns
+		Mediator
+	Estudo DIO
+		Jogo da memoria com emojis
+
+10/02/2024
+	Estudo design patterns
+		Memento
+	Ajuda ao José para buildar o projeto
+	Estudo DIO
+		Fazendo um jogo de piano
+
+11/02/2024
+	Anotações sobre PDJ
+		Somente o penultimo projeto
+
+12/02/2024
+	Férias em montes claros
+
+13/02/2024
+	Férias em montes claros
+
+14/02/2024
+	Férias em montes claros
+
+15/02/2024
+	De volta!!!
+	Estudo sobre design patterns
+		Observer
+	Estudo DIO
+		Projeto do YuGiOh
+		Feito a parte do CSS
+
+16/02/2024
+	Estudo sobre design patterns
+		State
+	Reunião Stoneridge
+		unimed
+		uniodonto
+		44 horas
+		seguro de vida
+		alimentacao 330 alelo
+		auxilio home office 120
+		sesi 
+		convenio farmacia
+		itau credito
+		PRL março 
+		Entrevista tecnica
+			Teste tecnico
+		Entrevista final 
+			Com o diretor da area
+		Salario está com R$13500
+	Estudo DIO
+		Projeto do YuGiOh
+			Finalizado
+		Estudo da DIO desenvolvimento de jogos finalizado
+		
+17/02/2024
+	Estudo design patterns
+		Template Method
+		Visitor
+		Interpreter 
+			Interpreter Padroes De Projeto Em Java
+				https://blog.matheuscastiglioni.com.br/interpreter-padroes-de-projeto-em-java/
+			Interpreter Design Pattern Implementation in JAVA || Design Pattern interview question
+				https://www.youtube.com/watch?v=uRhBjFjf8n8
+	Estudo de design patterns finalizado
+		Estudar Design Patterns
+		Estudados
+			Criacionais: Singleton,	Builder, Factory Method, Abstract Factory, Prototype
+			Estruturais: Adapter, Bridge, Decorator, Proxy,	Composite, Facade, FlyWeight
+			Comportamentais: Template Method, Visitor, Command, Strategy, Chain of Responsibility, Iterator, Mediator, Memento, Observer, State, Interpreter
+	
+18/02/2024
+	Testes da turing
+		São muito dificeis
+		Perguntas muito especificas sobre Java
+		Do tipo 
+			Garbage colector
+			Diferença entre Estruturas
+			Thread
+		Muito zuado mesmo
+		Pode fazer o teste novamente somente depois de 89 dias
+	Estudo de JMeter
+		Aprendendo o básico
+		Primeiro exemplo de utilização
+
+19/02/2024
+	Primeiro dia de trabalho na dexian O Boticário
+		Pegando os acessos
+		Estudo sobre o MAR no g-site
+		Esperando o carregador do notebook
+	Estudo de JMeter
+		Primeiro exemplo de utilização
+
+20/02/2024
+	Segundo dia de trabalho na dexian O Boticário
+		Esperando o carregador do notebook
+		Estudo sobre o MAR no g-site
+	Estudo de JMeter
+		Timers in JMeter
+		Logic Controller in JMeter
+
+21/02/2024
+	Terceiro dia de trabalho na dexian O Boticário
+		Esperando o carregador do notebook
+		Estudo sobre o MAR no g-site
+			Estudo sobre frontend legado parte 2
+			Finalizado
+		Carregador chegou no correios
+		Fui buscar e voltei no horário de almoço
+		Pedido de acesso ao github
+		Instalação do Visual Studio Code
+	Estudo de JMeter
+		Recording Controller
+
+22/02/2024
+	Quarto dia de trabalho na dexian O Boticario
+	Terminei a parte de frontend legado
+
+23/02/2024
+	Trabalhei até as 13 horas na dexian O Boticario
+	Comecei o estudo sobre frontend
+	Fofura passou mal e fomos para o hospital
+	Gudão passou mal e fiquei cuidado dele
+	Fofura terminou o atendimento meia noite
+
+24/02/2024
+	Sábado
+		Todo mundo passando mal e fiquei cuidando
+		Tiveram dengue
+
+25/02/2024
+	Domingo
+	Estudo JMeter
+		Simple,Module and Include Controllers | Test Fragment in JMeter	
+
+26/02/2024
+	Trabalho na dexian O Boticario
+	Visitar a fofura no hospital
+
+27/02/2024
+	Trabalho na dexian O Boticario
+	Visitar a fofura no hospital
+
+28/02/2024
+	Trabalho na dexian O Boticario
+	Entrevista na ESX para uma vaga na pede pronto
+		Java Sênior
+		Salario R$15000 PJ
+	Estudo sobre JMeter
+		Random e Random Order Controller
+		Interleave Controller
+
+29/02/2024
+	Trabalho na dexian O Boticario
+	Entrevista Yaman 16 horas
+		Java Pleno
+		Salario R$15000 PJ
+		Projeto legado
+	Estudo sobre JMeter
+		Logic Controllers- Throughput Controller | How to Build a Distributed Load Test
+		
+

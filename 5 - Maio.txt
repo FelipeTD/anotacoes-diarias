@@ -1,0 +1,62 @@
+01/05/2024
+    Fiquei jogando incremental hero 2 o dia todo
+
+02/05/2024
+    Trabalho na Dexian O Boticario
+
+    Aniversario da Best não estudei
+
+03/05/2024
+    Trabalho na Dexian O Boticario
+
+04/05/2024
+
+    Jogando o dia inteiro Incremental hero
+    Olhando o dente também
+
+05/05/2024
+
+    Jogando o dia inteiro incremental hero
+
+    Estudo sobre login com react mas desatualizado 2 anos
+
+    Procurar um login de 2024
+
+06/05/2024
+    Trabalho na dexian O Boticario
+
+    Estudo sobre login com react com typescript 2024
+
+
+
+Backlog
+
+    Criar projeto de finanças
+
+    Criar jogo de banco imobiliario com HTML, CSS e Javascript
+
+    Certificações
+        AWS
+        Java 11
+        Github
+
+    Estudar JMeter
+        Utilizar JMeter com Grafana
+
+        Criar exemplos de projetos com 
+            Load Testing
+            Stress Testing
+            Endurance Testing
+            Spike Testing
+            Volume Testing
+
+        Aplicar JMeter em Pipelines CI/CD
+            O JMeter pode ser aplicado em pipelines CI/CD para teste de desempenho
+            Também podem ser aplicados restrições de deploy com sucesso de acordo com resultados dos testes no JMeter
+        
+        Teste de Desempenho e carregamento (Load Testing and API Performance)
+            Foi utilizado o projeto spring-boot-crud-example para realizar os testes
+            O teste de desempenho está no arquivo SBCPT.jmx contendo a chamada para os 4 endpoints CRUD do projeto
+            Todas as requisições foram feitas com menos de 100ms
+    
+    Criar projeto com redis na AWS

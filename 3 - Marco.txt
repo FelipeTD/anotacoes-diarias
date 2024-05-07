@@ -1,0 +1,298 @@
+01/03/2024
+    Trabalho na Dexian O Boticario
+    Estudo sobre JMeter
+        Performance Testing
+
+02/03/2024
+	Arrumar o cabelo
+    Estudo sobre JMeter
+		Parametrização
+		CorrelationID
+
+03/03/2024
+	Fiz a barba (1 vez por mês)
+	Estudo sobre JMeter
+		While Controller
+		If Controller
+
+04/03/2024
+	Trabalho na Dexian O Boticário
+	Oferta de projeto
+		Criação da documentação da primeira parte do projeto
+
+05/03/2024
+	Trabalho na Dexian O Boticario
+	Projeto 99Freelas
+		Parte de reactJS com nextJS
+
+06/03/2024
+	Trabalho na Dexian O Boticario
+	Projeto NextJS
+
+07/03/2024
+	Trabalho na Dexian O Boticario
+	Projeto NextJS
+
+08/03/2024
+	Trabalho na Dexian O Boticario
+	Cliente recusou oferta na 99 99Freelas
+	Disse que já tinha um desenvolvedor mais adiantado na demanda
+	Não programei nesse dia
+
+09/03/2024
+	Projeto nextJS
+	Baixei jogo de futebol e joguei com o Gudão
+
+10/03/2024
+	Projeto nextJS
+	Jogo de corrida e futebol com o Gudão
+
+11/03/2024
+	Trabalho na Dexian O Boticario
+	Projeto nextJS
+
+12/03/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista Prime Results
+		Não falou o salário
+		Faz todo o processo de beneficios das empresas
+		R$15000 está dentro
+		Duas etapas
+			Entrevista tecnica
+			Entrevista com diretoria
+		Trabalho Hibrido 1x por semana no Estoril
+
+	Entrevista Randstad
+		Salario R$14000 CLT
+		Remoto
+		PRL 2 salarios
+			Metas: 50% metas de negócio e 50% individuais.
+			Pagamento em abril
+		Previdência privada
+			Banco Itaú
+		Plano de saúde Bradesco
+		Plano odontologico Bradesco
+		Vale refeição + vale alimentação 
+			R$1.103,00 (9,55% contribuição mensal)
+		Auxílio Equipamento: R$1.500,00 no primeiro mês
+		Auxílio Home-Office: R$150,00/mês para luz e internet.
+		Etapas
+			Passar curriculo para randstand
+			Etapa com RH da empresa
+			Validação tecnica com projeto no github
+			Etapa com Gestor
+
+	Entrevista Datum
+		Salario R$14000 PJ + remoto
+		Não consegui participar pois tive outra reunião
+
+	Projeto nextJS
+	
+13/03/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista Datum
+		Salario R$14000 PJ + remoto
+		Não consegui participar pois tive outra reunião
+
+	Projeto nextJS
+		Projeto finalizado
+
+14/03/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista Squadra (Banco Inter)
+		Entrevista tecnica feita sem maiores preocupações
+		Salario 10k
+		CLT
+		Hibrido
+		Aux. home office - R$ 100,00
+ 		VR ou VA através do cartão Caju R$ 28,39/dia (Desconto de 7,5% da carga)
+
+	Entrevista Datum
+		R$15000 PJ ou CLT
+		Entrevista tecnica
+		Proposta comercial
+		Contratação
+
+	Entrevista Banco Inter
+		Gostou do meu perfil
+		Vai ter um teste tecnico
+
+15/03/2024
+	Trabalho na Dexian O Boticario
+
+16/03/2024
+	Hospital
+		Tinha uma doença no olho
+	
+	Postando resultado do estudo de nextJS da Vercel
+
+	Estudo JMeter
+		Switch Controller
+
+17/03/2024
+	Estudo JMeter
+		ForEach Controller
+		Once Only Controller
+		Critical Section Controller
+		Runtime Controller
+
+	Estudo sobre o básico do JMeter Concluido
+		Agora falta aprender a colocar o JMeter em um projeto Spring Boot
+
+18/03/2024
+	Trabalho na Dexian O Boticario
+
+	Vídeo sobre teste de spring boot com JMeter
+		Foi criado um arquivo com dois tipos de teste Load Testing e Performance Testing
+
+19/03/2024
+	Trabalho na Dexian O Boticario
+
+	Começar curso da DIO - Java AI Powered
+		Estudo do modulo Contextualizando o Desenvolvimento Web com Spring Boot 3
+
+20/03/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista NT Consult
+		21 anos de mercado
+		CLT ou PJ ou Contrato
+		Plano de saude e ticket no CLT
+		MedImpact
+			Ramo de farmacias EUA
+			Fullstack Java e Angular
+			Profissionais do cliente e da NT Consult
+			3 etapas
+				Entrevista RH
+				Entrevista tecnica NT Consult
+				Projeto para ser feito em 2 horas
+				Entrevista com Cliente
+
+	Entrevista Prime Results
+		Serviço de gestão
+		Parte de software
+		ERP e Aplicativos
+		37 desenvolvedores
+
+	Estudo DIO - Java AI Powered
+		Como entregar um projeto
+
+21/03/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista 200 DEV
+		Trabalho na ELO
+		R$13000 + R$3000 Beneficios + Bonificação
+		Plano de saude Sulamerica R$600
+		Curso de Inglês opcional R$140
+		Cartão Suaio
+		R$500 reais em alimentação ou refeição
+		Seria R$13000 + R$2000 depois dos descontos
+		Premiação (até 2 salários por ano)
+		1 salário garantido
+		1 salário por Premiação 
+	
+		Fullstack Java e Node, reactJS
+		Boas praticas Design patterns e SOLID
+		Cloud DevOps CI/CD (Azure)
+
+		Entrevista técnica com o Renan
+			Ser bem generico
+			Não precisa entrar o tempo de conhecimento
+			Falar linguagens de back e front
+			Falar sobre arquitetura pois é uma vaga de engenharia
+			Enfatizar as principais atividades
+			Experiências anteriores sempre tive autonomia de definição de projetos
+
+		Apresentação ao cliente
+
+	Estudo DIO - Java AI Powered
+
+22/03/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista- Filipe Tórtora- Desenvolvedor FullStack ( STJ ) Spassu
+		Vaga precisa de pos-gradução
+		Trabalho no STJ
+
+	Estudo DIO - Java AI Powered
+
+23/03/2024
+	Estudo DIO - Java AI Powered
+		Estudo de 2 modulos completos
+
+24/03/2024
+	Estudo DIO - Java AI Powered
+		Estudo sobre Spring Security
+
+25/03/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista B2 Solutions
+		Foi só para confirmar valor do salário como R$15000
+		Vaga para trabalhar no Inter 3x2 Hibrido
+		Projeto utiliza ReactJS e Java no backend (Fullstack)
+		Irá realizar reunião amanhã 10 horas para falar sobre proposta CLT e PJ
+
+	Estudo DIO - Java AI Powered
+		Estudo sobre Design Patterns
+
+26/03/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista B2 Solutions
+		3x2
+
+		Proposta CLT Dividendos
+			Parte CLT e parte ações da empresa
+			Vale alimentação 500 por mes
+			Vale refeição 28 por dia
+			Plano de saude
+			Plano odontologico
+
+		Proposta PJ
+			Valor hora R$87,00
+
+		Será enviada proposta por email com todos os dados
+
+	Estudio DIO - Java AI Powered
+		Vídeo de apresentação (1h30min)
+
+27/03/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java AI Powered
+		Estudo sobre testes
+
+28/03/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java AI Powered
+		Estudo sobre Mockito
+
+	Entrevista vaga internacional Deviget
+		Correu tudo bem
+		Salario 4k dolar
+		Esperando proximas etapas
+
+29/03/2024
+	Cabelo mensal
+
+	Estudo DIO - Java AI Powered
+		Arquitetura REST
+
+30/03/2024
+	Estudo DIO - Java AI Powered
+		Hexagonal
+		Clean Arch
+		O modulo foi finalizado
+
+31/03/2024
+	Estudo DIO - Java AI Powered
+		Hexagonal com Spring e Kotlin
+		Na prática
+		Completo primeira parte
+

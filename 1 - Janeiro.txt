@@ -1,0 +1,502 @@
+03/01/2024
+	Fui demitido da Sinqia as 11:00:00
+	Assinei a carta de demissão e o pagamento será realizado no dia 12/01/2024
+	Enviei vários curriculos para vagas no linkedin
+
+04/01/2024
+	Fiz o exame demissional na parte da manhã
+	Fui chamado para uma entrevista na Impulso Oportunidade 2044- Pleno/Sênior em Java
+	Fiz a devolução do notebook na Sinqia
+	Reunião foi as 18 horas
+	Reunião realizada. Ficou como ponto aprender Kotlin pois é a evolução do Java
+
+05/01/2024
+	Reunião marcada com a Encora para o dia 09/01/2024 as 10 horas
+	Passei para a próxima etapa da vaga na Impulso
+	Proxima fase na Impulso: Entrevista com Tech Recruiter no dia 10/01/2024 as 14 horas
+	Curriculos enviados
+		1 - Pessoa Desenvolvedora Java BackEnd PL 				na Datum TI
+		2 - Senior Back end Developer [JAVA] 					na DWS Brazil
+		3 - Desenvolvedor Backend Java Pleno 					na Deliver IT
+		4 - DESENVOLVEDOR JAVA SR - REMOTO 						na Yaman Tecnologia
+		5 - Desenvolvedor Java 									na Stefanini
+		6 - Desenvolvedor Java 									na K2 Solutions
+		7 - Desenvolvedor Java Sênior | Empréstimos 			na Picpay
+		8 - Senior Java Developer 								na Dentsu
+		9 - Pessoa Especialista Backend Java - Cód. 5180 		na Softplan 
+		10 - [job-12767] Senior Developer Java, Brasil 			na CI&T
+		11 - Desenvolvedor Java Sênior 							na Qintess
+		12 - Desenvolvedor Fullstack Sênior 					na Extreme Digital Solutions - EDS
+		13 - Engenheira (o) de Software Back-End Java Sênior - 100% Remoto 	na TQI
+		14 - BACKEND DEVELOPER - JAVA (100% REMOTO) 				na iTRecruter
+		15 - Pessoa Desenvolvedora Back-End: Pleno e Sênior;			na Caju
+	Teste de logica na Gupy 61.1
+	Estudar Kotlin via documentação conceitos básicos de kotlin
+	Proposta da HRBP R$7000 CLT + R$3000 de beneficios para vaga Desenvolvedor Java Cloud Pleno
+		
+06/01/2024
+	Curriculos enviados
+		1 - Pessoa Desenvolvedora Java Sr - Afirmativa para Talentos Diversos	na Unisys
+		2 - Pessoa Desenvolvedora Bakend Java/Kotlin Sênior			na Zup Innovation
+		3 - Senior Software Engineer (Remote)					na CharterUP
+		4 - Desenvolvedor Java Sênior						na Picpay
+		5 - Senior Java Developer						na Lean Tech
+		6 - Senior Java/Golang Developer					na WEX
+		7 - Software Engineer IV						na InComm Payments	
+		8 - Pessoa Desenvolvedora Fullstack(Java/Angular) Senior		na Zup Innovation
+		9 - Mid-level Full Stack Developer					na Sierra Studio
+		10 - Staff Software Engineer (Java)					na Swap
+		11 - Consultor Java Full Stack						na Global System
+	Organização dos processos em que passei da primeira fase e tenho entrevista
+	Estudo de Kotlin com dados básicos ainda
+	
+07/01/2024
+	Curriculos enviados
+		1 - Desenvolvedor Java Pleno | Crédito					na Picpay
+		2 - Site Reliability Engineer (SRE) - Work from home			na Nearsure
+		3 - Desenvolvedor Backend Java Pleno					na DeliveryIT
+		4 - Pessoa Engenheira de Software Backend (Java) - Nível Pleno		na AbasteceAí
+		5 - Desenvolvedor(a) de Software Sênior					na Tecnospeed
+		6 - Pessoa Desenvolvedora BackEnd Java/Kotlin Especialista II		na Boticario
+		7 - Sr. Software Engineer (Backend - Java)				na RecargaPay
+		8 - Engenheiro Java Full Stack Pleno					na Propz
+		9 - PESSOA ENG. DE SOFTWARE JAVA PLENO					na Pitang
+		10 - [Remoto] Java Sênior						na Iteris
+		11 - Pleno: 4 anos de experiência comprovada;				na EY
+	Estudo de Kotlin com dados básicos ainda
+	
+08/01/2024
+	Retorno da ITRecruiter Valor da vaga 1.4k Euro contrato PJ e horário (06:00 as 15:00)
+	Curriculos enviados
+		1 - Senior Java Software Engineer					na Builder Prime
+		2 - Engenheiro de Software Back-end Sênior				no Banco Cora
+		3 - Cargo não informado							na Aubay
+		4 - Bruna Alveachi entrou em contato					na Inventa
+	Estudo de Kotlin com dados básicos ainda
+	Entrevista marcada para 10/01/2024 as 11 horas com a Act Digital
+	Teste de Inglês da Aubay em portugal
+	
+09/01/2024
+	Pesquisa sobre Encora para entrevista
+	Unimed e Bradesco CLT remoto - 80 por mes Bradesco dependente da idade 25 dental
+	Alimentação 1595 - PRL 100% - seguro de vida porto seguro
+	Previdencia privada 4%, Gympass 195 homeoffice
+	Contrato de exclusividade
+	Proximas etapas
+		Entrevista tecnica
+		Conversa com gestor do projeto
+	Curriculos enviados
+		1 - Desenvolvedor Java							na ESX
+		2 - Desenvolvedor Java Pleno						na Agence
+	Estudo de Kotlin com dados básicos ainda
+	Configuração de projeto Kotlin/JS
+		New project -> Kotlin Multiplatform -> NodeJS Application -> Gradle Kotlin -> JDK 11 (suporta até a 18)
+		Para executar o projeto no Intellij precisa ir no menu do gradle -> tasks -> kotlin node -> nodeRun
+	Preferi ignorar a parte de Kotlin/JS pois achei muita gambiarra
+	Finalizado parte de conceitos básicos do Kotlin
+	Iniciado um curso de Kotlin com perguntas básicas
+
+10/01/2024
+	Preenchendo Quizz na turing para ter perfil que pode ser contratado (falta testes ainda)
+	Teste da Aubay realizado (foi bem ruim)
+	Curriculos enviados
+		1 - Desenvolvedor Java							na Foton Informática S.A (Curriculo enviado por email para Ana Gabrielli)
+		2 - Sr. Java developer							na AWWCOR
+	Reunião Act Digital (11 horas)
+		Entrevista foi remarcada para 11 horas do dia 11/01/2024
+	Foton Informática fez uma ligação inicial para ver se eu posso participar da vaga de desenvolvedor Java
+	Foton Informática pretensão salarial 10k a 13k
+	Teste na XP 
+		Teste de estilos de trabalho	OK
+		Teste de Raciocínio		NOK
+		Mapeamento de perfil		OK
+		Teste situacional		OK
+		Teste de inferências		OK
+	Reunião Impulso (14 horas, Bate papo com Valmor Tech Recruiter)
+		Clickbus 
+		IT Label
+		Horas extras são estudadas para não acontecer novamente
+		Manhã até o final da tarde
+		Utilização do slack
+		Reestrurar area financeira
+		Time novo para a área de pagamentos - Bussriga (Click Buss + Seu Barriga)
+		3 meses para implementar novo Gateway de pagamento
+		Integração de sistema de pagamento com sistema de faturamente (SAP)
+		Relatorios, otimização de processos
+		Comunicação, proatividade, transparência
+		Curta jogar em time para ensinar outras pessoas
+		Java (8 e 17) + Spring, Kotlin, POO, SOLID, Clean Code, Design Patterns, DEVOPS, 
+		Conhecer área financeira
+		Teste automatizado, integrado, teste de carga, teste unitario
+		MySQL.
+		Desenhos de API RestFull
+		AWS - Tudo que foi utilizado na Zup
+		Mensageria - SQS, SNS, RabbitMQ
+		Arquitetura Hexagonal
+		Programação funcional
+		DDD - Domain Driven Design
+		Docker - Terraform
+		Java  		8
+		Spring 		7
+		Kotlin  	5
+		SOLID, Clean	8
+		API		10
+		AWS		9
+		GIT		10
+		Testes		10
+		Redis		6
+		Docker		7
+		Bate-papo com o time da clickbuss
+		Dividido em dois momentos
+			Bate-papo cultural
+			Parte técnica - existem pegadinhas
+	Comecei um projeto Restful web service utilizando Kotlin e Spring
+	Atualizei meu perfil do linkedin em inglês e português	
+
+11/01/2024
+	Curriculos enviados
+		1 - Desenvolvedor Java Sênior							na Digisystem
+		2 - Desenvolvedor (a) Java Sênior						na Develcode Tecnologia em Sistemas
+		3 - Java Developer - JR/PL/SR							na Foursys 
+		4 - Java, Java/Kotlin, Java/Node						na Invillia
+		5 - Full Stack (Java/React) Sênior						na TailorIT
+		6 - Full Stack Developer Sênior							na K2 Partnering Solutions
+	Continuação projeto Restful web service utilizando kotlin e Spring
+		Projeto concluido 
+	Reunião na Builders marcada para dia 18/01/2024 as 17:00 para vaga de Desenvolvedor Java Sênior
+	Entrevista com Thais Castro da ART IT para vaga em portugal
+		Processo demora de 2 a 3 meses
+	Denise da Cast Group respondeu depois de 1 semana
+		Reunião marcada para 12/01/2024 as 15:30
+	Reunião na Foursys para Desenvolvedor Java marcada para 13:00 horas
+	Teste da XP realizado
+	Recebi duas propostas para vagas internacionais
+	
+12/01/2024
+	Reunião com a Digisystem para trabalhar no banco votorantim.
+		Salario R$12000 CLT + beneficios
+		Projeto parece interessante pois pode internalizar e o banco gosta de pessoas que ficam muito tempo
+		Reunião técnica na segunda-feira
+	Curriculos enviados
+		1 - Arquiteto de software (Java)						na Foton Informatica S.A. 
+		2 - Pessoa Desenvolvedora Backend Pleno						na Datum IT
+		3 - Pessoa Desenvolvedora JAVA							na South System
+		4 - Desenvolvedor (a) Java Sênior						na DevelCode
+		
+	Reunião ACT Digital
+		Esperei até 11:30 e ninguém apareceu
+	Reunião Foursys
+		Próxima etapa vai ser entrevista técnica
+		Explicou tudo sobre a vaga e a empresa
+	Reunião Digisystem
+		Entrevista técnica com a digisystem
+		Remarcada para segunda-feira
+	Reunião Cast Group
+		Entrevista técnica 
+	Estudo sobre projeto de Spring + Kotlin no site da Spring
+		
+13/01/2024
+	Estudo sobre projeto de Spring + Kotlin no site da Spring
+		Terminado parte de Persistência com JPA
+		Exposing HTTP API
+		Configurando arquivo de propriedades
+		Projeto finalizado
+	Curriculos enviados
+		1 - Desenvolvedor Back End Java SR (Belo-Horizonte)				na Stefanini
+	Foi mais um dia de descanso porque é sabado
+
+14/01/2024
+	Curriculos enviados
+		1 - Pessoa Desenvolvedora Fullstack Java					na Boticario
+		2 - Java + Angular Pleno/Sênior							na Globalhits
+		3 - Software Developer + Technical Writer					na micro1
+		4 - Desenvolvedor Fullstack Sênior						na hrsoul
+	Estudo sobre Spring Boot com Kotlin Coroutines e RSocket para criar um chat
+		Adicionando persistência com Spring Data JDBC and H2
+		Implementando Extensões
+		Continuar na parte 4
+	Foi mais um dia descanso porque é domingo
+
+15/01/2024
+	Curriculos enviados
+		1 - Desenvolvedor JAVA PL							na Stefanini
+		2 - Desenvolvedor JAVA Backend Sênior						na Salsa Techonology
+		3 - Desenvolvedor Java Pleno							na Framework Digital
+		4 - DEV JAVA SR									na Squadra
+		5 - Mid/Sr Backend Java								na Invilla
+		6 - Desenvolvedor de Backend Sênior						na APLLOS
+		7 - Desenvolvedor(a) Java SR							na MAGNA SISTEMAS
+		8 - Profissional Back End Java - SR						na BRQ Solutions
+		9 - Java Spring Boot Engineer							na Exadel
+		10 - Senior Java Software Engineer						na Newfire Global Partners
+	Reunião 11 horas para ACT Digital
+		BMG, Santader e outros clientes
+		Vaga no Bradesco
+		Retorno sobre a vaga ainda hoje segundo Milena
+	Reunião 13 horas Digisystem Java Sênior para banco BV (Banco Votorantim) (Entrevista técnica)
+		Remarcada porque o entrevistador não conseguiu conectar por causa de chuva no rio de janeiro
+	Estudo sobre Spring Webflux com Kotlin Coroutines
+	Estudo sobre streaming com RSocket
+		Spring Messaging
+	Projeto finalizado
+	Estudo sobre Design Patterns
+		Singleton
+
+16/01/2024
+	Não mandar vagas da invilla pois estão estranhas. 
+	Vagas que já foram preenchidas ainda estão aparecendo e tem vagas abertas a 22 meses.
+	Curriculos enviados
+		1 - Full Stack Java SR									na MAGNA SISTEMAS
+		2 - Mid Level Full Stack Developer (Java / Javascript)	na Motorola Solutions
+		3 - Backend Engineer									na Tenchi Security
+		4 - Java Developer Senior								na CI&T
+		5 - Developer Senior Java/Kotlin + AWS, Brasil			na CI&T
+		6 - Java Software Engineer								na Infogain
+		7 - Developer Java Senior, Brasil						na CI&T
+		8 - Senior Backend Engineer (NODE, Typescript), Brazil	na CI&T
+		9 - PESSOA DESENVOLVEDORA FULL STACK JAVA | REACT 		na Pitang
+		10 - Senior AWS/Java Developer, Brazil					na CI&T
+		11 - Desenvolvedor Java									na Action Labs
+	Reunião Digisystem para vaga no Banco BV (10:30)
+		Entrevista tecnica
+		Foi bem ruim pois não consegui falar a maioria das coisas que eu sei
+		Também travei em várias perguntas que foram feitas pelo entrevistador
+		Coisas básicas que eu deveria saber.
+		Vou continuar meus estudos sobre Design Patterns e depois fazer um projeto em Spring Boot
+
+	Reunião Cast Group para vaga no Banco do Brasil (14:00)
+		Entrevista tecnica
+		Entrevista foi bem tranquila. Consegui falar tudo que eu sei.
+		Se eu passar nessa fase a próxima fase será entrevista com o Banco do Brasil
+	Estudo sobre Design Patterns
+		Colocando mais exemplos de Singleton no github para estudo
+		Estudo sobre Singleton finalizado
+	Estudo sobre Design Patterns
+		Projeto completo sobre Adapter com exemplos
+
+17/01/2024
+	Curriculos enviados
+		1 - Desenvolvedor Java Sênior							na Framework Digital
+		2 - Desenvolvedor Java Sr								na Code Group
+		3 - Desenvolvedor(a) Java								na Sys Manager
+		4 - Senior Java Developer								na Luxoft
+		5 - Senior Java Developer, Brazil						na CI&T
+		6 - Senior Software Engineer							na Trimble
+
+	Atualizar currículo na Gupy pois não está com as experiências
+	Curriculo atualizado
+	Estudo sobre SOLID
+		Colocando explicação no github
+		Adicionando exemplos de cada principio
+	Estudo sobre SOLID finalizado e colocado no GITHUB
+	Precisa aplicar nos projetos agora
+	Reunião tecnica na ACT Digital
+		Foi marcada para 17 horas
+		Consegui responder tudo que o entrevistador perguntou
+		A pergunta mais estranha foi sobre encapsulamento
+		Eu achei estranho porque foi a primeira coisa que ensinaram na faculdade
+
+18/01/2024
+	Curriculos enviados
+		1 - Lead Java Developer									na Luxoft
+		2 - Senior Java Developer								na CI&T
+		3 - Senior Software Architect (React+Java), Brazil		na CI&T
+		4 - Desenvolvedor (a) FullStack Java Sr					na Stefanini
+		5 - Java Full Stack Developer							na Positron Stoneridge
+		6 - Work From Home Angular Developer					na Workling
+		7 - Arquiteto de Software pleno							na UDS Tecnologia
+		8 - Developer Java, Brasil								na CI&T
+		9 - Desenvolvedor Fullstack Java (Sênior)				na UDS
+		10 - DESENVOLVEDOR JAVA SENIOR							na Speed Consult RH
+	Atualizado curriculo no site empregos.com
+
+	Reunião emprego whats
+		Global Web
+		Trabalhar na Caixa
+		Remoto CLT
+		CLT R$8000 + beneficios
+		Plano de saude Amil (empresa paga. Dependentes valor fixo R$370 sem coparticipação) 
+		Seguro de vida
+		Ticket (VR ou VA R$33,52 por dia)
+		Day off dia do aniversario
+		3 vagas (se não der certo em 1 vai para o outro)
+		Pessoas que fiquem mais tempo
+		Contrato de 5 anos para o projeto
+		Retirar iniciação cientifica
+		Curriculo atualizado com dicas da entrevistadora
+
+	Reunião holonic
+		Reunião em inglês
+		Vai ter um teste técnico se passar nessa fase
+		salario 8k dolar por mês
+		Precisa de inglês fluente
+
+	Reunião Builders
+		Remarcada para segunda 22/01/2024
+	Projeto para a DigiSystem
+		Criando projeto Spring MVC do zero
+
+19/01/2024
+	Curriculos enviados
+		1 - Pessoa Desenvolvedora Back End Sênior				na TOTVS
+		2 - Desenvolvedor Java Sênior							na Picpay
+		3 - Pessoa Desenvolvedora Fullstack Sr (Java/Ionic/JSF)	na Spread Tecnologia
+		4 - [Job-13299] Mid-level Java Developer, Brazil		na CI&T
+		5 - Software Engineer Lead								na Trimble
+		6 - Pessoa Engenheira de Software Sênior (DataStore)	na Neoway
+		7 - Desenvolvedor Java Sênior							na Ília
+		8 - Desenvolvedor Java									na Sillion
+		9 - Desenvolvedor Java Pleno 							na TOTVS
+	Projeto para a Digisystem
+		Adicionado parte de Restful API
+		Adicionado testes unitários
+
+20/01/2024
+	Curriculos enviados
+		1 - Desenvolvedor Java									na Runtalent
+	Projeto para a Digisystem
+		Finalizado a parte de testes unitários
+		Realizando testes de integração
+
+21/01/2024
+	Curriculos enviados
+		1 - Desenvolvedor Java Sênior							na Projetas
+	Projeto para a Digisystem
+		Realizando teste de integração com testcontainer
+		Teste de integração finalizados
+		Modelagem de dados com PlantUML
+		Inicio da parte de POO, SOLID, Design Patterns e Clean Code
+
+22/01/2024
+	Curriculos enviados
+		1 - Desenvolvedor Java Pleno							na Runtalent
+		2 - Desenvolvedor Java Sênior 							na Qintess
+	Projeto para a Digisystem
+		Revisar o projeto para a parte de Clean Code
+		Projeto revisado
+		Trabalhando na parte de chamada de API externa
+		Trabalhando na parte de conversão de objeto JSON em objeto do projeto
+		Conversão realizada
+		Testes de HttpRequest
+		Projeto concluído
+
+23/01/2024
+	Projeto para a Digisystem
+		Adicionando um pouco de docker no projeto
+		Agora consigo iniciar o projeto e banco de dados com o docker compose
+		Trabalhando com a parte de conversão de XML
+	Entrevista com a Pitang
+		Salário R$8900
+		Trabalhar no nível Sênior
+		Remoto
+		Vários benefícios
+	Marcada 3 entrevistas para quarta e quinta
+
+24/01/2024
+	Projeto finalizado com a parte de conversão de XML e testes da conversão
+	Entrevista para a vaga na caixa
+	Entrevista tecnica com o gestor da vaga
+
+25/01/2024
+	Projeto para explicar como o SOLID se relaciona com os novos softwares threads
+	Esses softwares são novas tendências na área de tecnologia
+	Eu reparei que a maioria deles tem uma relação muito boa com o SOLID ou poderiam se beneficiar da utilização dele
+	Entrevista para a vaga da Ilia
+		Vaga para Sênior
+		Salario até R$11000
+		Beneficios Caju R$900 
+		Plano de saude para dependentes de graça
+		Plano odontologico 16 reais por pessoa
+		Auxilio home office R$100
+		Entre outros beneficios
+		Projeto na Livelo
+		3 etapas
+		1 entrevista com RH
+		1 entrevista com especialista da Ilia
+		1 entrevista com pessoas da Livelo
+		Finalizado
+		Demora 1 semana para a entrevista com o especialista da Ilia
+		A entrevista com a Livelo pode ser mais demorada
+	Fui aprovado na vaga da Caixa
+	Estudo sobre design pattern Strategy
+
+26/01/2024
+	Trabalhar no backlog no estudo de design patterns
+		Estudo sobre Strategy com explicação e repositorio com exemplos
+	Entrevista RH Avvale
+		Hibrido
+		Desenvolvimento de liderança
+		Atuação PJ com beneficios
+			Assitência médica (100%)
+			Assistência odontologica (pequeno)
+			Inglês e Espanhol (100% custeado)
+			10 dias de férias remuneradas
+			30 dias apos 1 ano de empresa
+			10 dias licença paternidade
+			Gympass
+			R$80 por hora
+			Retorno até quarta-feira 31/01/2024
+			Projeto na ArcelorMital
+	
+	Entrevista Técnica Ilia
+		Muito tranquila a entrevista
+		Algumas perguntas sobre async e await
+		Não teve muitas perguntas pois o que eles precisavam eu já usei nos meus trabalhos
+		Ainda vai ter uma entrevista técnica com o cliente
+
+	Entrevista Vix Team 
+		Ninguém apareceu na Reunião
+
+27/01/2024
+	Estudo sobre design patterns
+		Builder
+		Estudo realizado e código enviado para o github com explicação e exemplos
+	Adicionando Swagger no projeto finanças
+
+28/01/2024
+	Estudo sobre Swagger
+		Atualizando os controllers para colocar um ResponseStatus em cada um deles
+	Estudo sobre design patterns
+		Factory Method
+
+29/01/2024
+	Estudo sobre design patterns
+		Abstract Factory
+	Tempo de serviço
+		RCS					1 ano e 9 meses
+		TOTVS				1 ano
+		Fundação mineira	0 ano e 5 meses
+		Nova tendência		1 ano e 6 meses
+		ZUP					1 ano e 1 mes
+		Homie do brasil		1 ano e 4 meses
+		Total				7 anos e 1 mes
+	Estudo DIO
+		Ajustando projeto no github
+	Reunião com Vix Team
+		Entrevista foi estranha
+		Comecei a mostrar o projeto e a gestora da vaga disse que poderia parar de explicar
+		A justificativa seria que ela já tinha entendido que tipo de programador eu era
+		Fiquei triste pois não consegui mostrar todas as funcionalidades do projeto
+
+30/01/2024
+	Reunião Dexian
+		Bem completa com várias perguntas
+		Trabalhar em um projeto do Boticario
+		Resposta do processo até segunda da semana que vem
+	Estudo sobre design patterns
+		Prototype
+	Retorno da vaga na Thomson Reuters
+		Entrevista na sexta-feira 
+		É uma entrevista técnica
+	Estudo DIO
+		Estudo sobre CSS
+
+31/01/2024
+	Entrega de documentos para novo emprego
+	Exame admissional
+	Estudo sobre design patterns
+		Bridge
+	Estudo DIO
+		Estudo sobre CSS
+		
+

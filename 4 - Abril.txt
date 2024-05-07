@@ -1,0 +1,325 @@
+01/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java AI Powered
+		Fazendo o sistema funcionar
+		Sistema funcionando corretamente
+
+02/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java AI Powered
+		BFF e DDD
+		Estudo finalizado
+
+03/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java AI Powered
+		Estudo de programação a eventos
+
+04/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java AI Powered
+		Finalização módulo sobre programação a eventos
+
+05/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java AI Powered
+		Lab de Quarkus
+
+06/04/2024
+	Estudo DIO - Java AI Powered
+		Lab de Quarkus
+		A parte de logs não funcionou mas o restante funcionou corretamente
+
+07/04/2024
+	Estudo DIO - Java AI Powered
+		Lab de Quarkus
+
+	Comando de insert para teste quando necessário
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('43f286fe-a991-4d5c-8871-5c53c23dc698', 'http://dummyimage.com/179x100.png/ff4444/ffffff', 'Olga', 'Kapelhof', 'okapelhof0@bbb.org', '209-341-1999', 'Analyst Programmer');
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('7c94773d-cacf-480f-bd7e-ec4bdc58c5dc', 'http://dummyimage.com/226x100.png/5fa2dd/ffffff', 'Austin', 'Eddie', 'aeddie1@addthis.com', '551-373-2751', 'Biostatistician I');
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('0388f045-5dfb-4bf3-87f9-1be3073d5393', 'http://dummyimage.com/108x100.png/ff4444/ffffff', 'Jarret', 'Grayshan', 'jgrayshan2@liveinternet.ru', '732-860-4253', 'Teacher');
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('b76466a0-612d-489c-9f04-3e25d1790b26', 'http://dummyimage.com/249x100.png/ff4444/ffffff', 'Valenka', 'Hauger', 'vhauger3@hao123.com', '948-243-2013', 'Safety Technician III');
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('3d920821-f8fa-429f-9c89-1167f5eaeb16', 'http://dummyimage.com/208x100.png/cc0000/ffffff', 'Gilles', 'Petera', 'gpetera4@biblegateway.com', '262-507-1359', 'Statistician III');
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('afd1c712-907d-4357-955f-ffba91c79435', 'http://dummyimage.com/174x100.png/ff4444/ffffff', 'Abra', 'Lebbern', 'alebbern5@skyrock.com', '240-342-8874', 'Health Coach I');
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('3dbfde05-8893-442d-a9d1-a56ea6bd56fe', 'http://dummyimage.com/157x100.png/cc0000/ffffff', 'Bria', 'Paulino', 'bpaulino6@rakuten.co.jp', '176-410-4717', 'Product Engineer');
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('2a137cee-7e5a-4d7a-8463-7f4962f2e986', 'http://dummyimage.com/245x100.png/5fa2dd/ffffff', 'Debora', 'Slatten', 'dslatten7@wisc.edu', '516-562-9208', 'Marketing Assistant');
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('560c2d0c-592e-4906-a20e-533a75c9bf00', 'http://dummyimage.com/203x100.png/cc0000/ffffff', 'Deborah', 'Hruska', 'dhruska8@domainmarket.com', '785-892-6958', 'Programmer III');
+	INSERT INTO candidates (id, photo, given_name, family_name, email, phone, job_title) VALUES ('ff98c649-d71d-4e8a-a08b-d3d2220e8060', 'http://dummyimage.com/184x100.png/dddddd/000000', 'Carlynn', 'Maseres', 'cmaseres9@craigslist.org', '752-700-2448', 'Speech Pathologist');
+
+08/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java ia Powered
+		Lab Quarkus
+
+09/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java IA Powered
+		Lab Quarkus
+	
+10/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java IA Powered
+		Lab Quarkus
+
+11/04/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista Sigga
+		23 anos
+		Trabalhar na propria empresa
+		1 semana 
+		Entrevista com gestor
+		Teste tecnico
+
+	Estudo DIO - Java IA Powered
+		Lab Quarkus
+
+12/04/2024
+	Trabalho na Dexian O Boticario
+
+	Entrevista NTT Data
+		880 vale alimentação 1 real de desconto
+		3% dobrado pela empresa previdenica privada
+		Gympass
+		Indicação 100 reais
+		Recrutadora Vania
+		Segunda rodada com tecnico do time
+		Terceiro com gestao do cliente
+		Consignado
+
+	Estudo DIO - Java IA Powered
+		Desafio de codigo SOLID
+
+13/04/2024
+	Estudo DIO - Java IA Powered
+		AWS Criação de conta
+
+14/04/2024
+	Estudo DIO - Java IA Powered
+		Conceito de nuvem
+		Arquitetura global da AWS
+		Computação na AWS
+		Redes na AWS
+
+15/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java IA Powered
+		Armazenamento e banco de dados na AWS
+
+16/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java IA Powered
+		Documentação de utilização de AWS
+
+17/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java IA Powered
+		Começando projeto com railway
+
+18/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java IA Powered
+		Projeto railway
+
+19/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo DIO - Java IA Powered
+		Projeto railway
+
+20/04/2024
+
+	Estudo DIO - Java IA Powered
+		Projeto railway
+		Finalizado
+
+21/04/2024
+
+	Postagem sobre o curso da DIO no linkedin
+
+	Concluí o Bootcamp Java IA Powered da DIO ontem depois de 2 meses de estudo
+	
+	Foram 63 horas de conhecimento sobre desenvolvimento com Java
+
+	No primeiro módulo foi focado em desenvolvimento antes e depois do Spring:
+		Conceito básico de Spring mostrando a diferença entre como era feito com Java EE e como é feito com Spring
+		Documentação da API com Swagger
+		Níveis de maturidade de uma aplicação
+		Uma parte muito legal sobre Spring Security utilizando Java 8
+		Padrões de projeto (Design Patterns)
+
+		Projetos:
+			Primeiros passos: https://github.com/FelipeTD/primeiros-passos
+			Spring Data JPA: https://github.com/FelipeTD/spring-data-jpa
+			Spring Boot Web: https://github.com/FelipeTD/springboot-web
+			Spring Security: https://github.com/FelipeTD/spring-security
+			Spring Security com JWT: https://github.com/FelipeTD/spring-security-jwt
+			Java Puro para padrões de projeto: https://github.com/FelipeTD/java-puro
+			Padrões de projeto com Spring Boot: https://github.com/FelipeTD/padroes-projetos-spring-boot
+
+		Avaliação do módulo:
+			Esse módulo foi excelente para reforçar conhecimentos e entender como algumas coisas funcionam e funcionavam
+			Mas foi um módulo básico com conhecimentos básicos para entender como as coisas funcionam
+			Seria legal ter uma implementação do Spring Security utilizando a versão mais atual
+			Eu encontrei um vídeo no youtube com a versão mais atual do Spring Security:
+				https://www.youtube.com/watch?v=EjrlN_OQVDQ
+			Lembrando que é bom saber desenvolver nas duas versões pois tem empresas que utilizam Java 8 e outras que utilizam Java 17
+
+	No segundo módulo foi focado em testes, conceitos de API e Arquiteturas:
+		Conceitos básico sobre testes
+		Testes unitários com JUnit
+		Utilização do Mockito em Testes unitários
+		Conceitos sobre Arquitetura REST
+		Conceitos sobre Hexagonal
+		Deploy na Heroku
+		Conceito sobre microserviços, BFF e DDD
+		Programação orientada a eventos com Java, Spring Boot e Kafka
+		Projeto com Quarkus Framework
+
+		Projetos:
+			Junit com Gradle: https://github.com/FelipeTD/exemplo-junit-gradle
+			Mockito: https://github.com/FelipeTD/mockito-project
+			API feita com Spring, Kotlin e Hexagonal: https://github.com/FelipeTD/avengers-api
+				Essa API foi feita deploy na Heroku
+			Produtor Kafka: https://github.com/FelipeTD/spring-kafka
+			Consumidor Kafka: https://github.com/FelipeTD/spring-kafka-consumidor
+			Quarkus: https://github.com/FelipeTD/quarkus
+
+		Avaliação do módulo:
+			Foi um excelente módulo para entender melhor a parte de testes e Arquiteturas
+			O projeto utilizando Quarkus foi o melhor projeto do curso com muitas informações sobre vários serviços, dentre eles:
+				OpenTelemetry
+				GrayLog e OpenSean
+				Traefik
+				Redis
+				Docker
+				MariaDB
+				MongoDB
+				Java 17
+				Quarkus Framework
+				JUnit
+				TestContainers
+				Hibernate
+				Flyway
+			É muito conhecimento sobre programação. 
+  			Fiquei impressionado com o tanto que tecnologias que podem ser utilizadas no desenvolvimento de um `software`
+  			Esse foi o módulo mais complexo do Bootcamp
+  			Ensinando conceitos que eu já utilizei nas empresas, mas com uma explicação excelente
+  			Parabéns, Thiago Poiani as suas explicações são ótimas
+			
+	No último módulo foi focado em descrever vantagens da AWS e Deploy com railway:
+		Vantagens de se utilizar AWS
+		Conceito de cloud
+		Infraestrutura Global da AWS
+		Computação em AWS
+		Redes em AWS
+		Armazenamento e banco de dados na AWS
+		Publicando uma API REST com Railway
+
+		Projetos:
+			Vantagens de alguns serviços da AWS: https://github.com/FelipeTD/vantagens-aws
+			Aplicação com deploy no railway: https://github.com/FelipeTD/spring-api-railway
+
+		Avaliação do módulo:
+			Foi um dos módulos com menos conteúdo prático do Bootcamp
+  			Fiquei chateado de não ter nenhuma implementação de serviços na AWS 
+  			Foi feita somente a explicação dos serviços
+  			Seria legal ver um deploy na AWS utilizando um Fargate 
+  			Criar uma função simples numa (Lambda) pegando dados de um bucket no `S3`
+  			A parte de deploy utilizando Railway é uma excelente alternativa ao Heroku
+  			Vou utilizar nos meus projetos pessoais
+
+	Conclusão:
+		Foram 15 repositorios criados no GitHub com vários temas sobre programação
+		Recomendo esse curso para quem já entende sobre programação, mas quer entender como funciona o que utilizamos
+		A conclusão que eu chego ao terminar esse bootcamp é que tem sempre mais conteúdo para ser estudado
+
+		Segue um repositório com mais de 2000 linhas sobre anotações que fiz durante o bootcamp
+		https://github.com/FelipeTD/java-ia-powered
+
+22/04/2024
+	Trabalho na Dexian O Boticario
+
+	Inicio do projeto para analise de dinheiro backend
+
+23/04/2024
+	Trabalho na Dexian O Boticario
+
+	Criação do projeto de analise de dinheiro
+		Definição das telas
+
+	Trabalhar na parte de login com JWT e spring security
+	Frontend com tela de login em reactJS
+
+24/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudando sobre JWT com Spring Security e Java 17
+
+25/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudando sobre JWT com Spring Security e Java 17
+
+26/04/2024
+	Trabalho na Dexian O Boticario
+	
+	Estudo sobre JWT com Spring Security e Java 17
+
+27/04/2024
+
+	Estudo sobre JWT com Spring Security e Java 17
+
+28/04/2024
+	
+	Estudo sobre JWT com Spring Security e Java 17
+
+29/04/2024
+	Trabalho na Dexian O Boticario
+
+	Reunião Google
+		Não tem uma linguagem especifica
+		Parte de segurança
+		Vaga em BH
+		C++ e Golang
+		3x por semana
+		4 a 8 semanas
+
+		Link da posição vai ser generica
+		Entrevista técnica em inglês
+			Documento do Docs
+			Sempre ir falando o que está fazendo
+			45 minutos para resolver
+			2 a 3 perguntas
+			Marcar daqui 2 semanas
+			15 de maio
+		Etapa de onSite
+			4 a 5 entrevistas
+			3 entrevistas técnicas
+		Quarta entrevista
+			Lidership
+			Mais comportamental
+			Questões de liderança
+			Trabalho em equipe
+		Quinta entrevista
+			Pode ser com gestor imediato
+
+	Estudo sobre JWT parte do CORS
+
+30/04/2024
+	Trabalho na Dexian O Boticario
+
+	Estudo sobre JWT parte de consumo no frontend
+

@@ -1,0 +1,37 @@
+Falha 1
+	01/01/2024 até 04/01/2024 (4 dias)
+		Ano novo e demissão para fepweb / sinqia
+
+Falha 2
+	12/02/2024 até 14/02/2024 (3 dias)
+		Viagem para Montes Claros para visitar a Best
+
+Falha 3
+	23/02/2024 até 27/02/2024 (4 dias)
+		Consegui fazer 1 commit no dia 25/02/2024
+		Fofura e Gudão pegaram dengue e tive que cuidar deles
+
+Falha 4
+04/03/2024 até 05/04/2024 (2 dias)
+	Procurando projetos no 99Freelas 
+	Trabalho no Boticario está dificil e tive que focar nas soluções
+
+Falha 5
+08/03/2024 (1 dia)
+	Cliente recusou a oferta pois tinha um desenvolvedor mais adiantado
+	Fiquei desanimado e não programei nesse dia
+
+Falha 6
+14/03/2024 até 15/03/2024 (2 dias)
+	Desanimado
+
+Falha 7
+01/05/2024 até 04/05/2024 (4 dias)
+	Fiquei jogando Incremental Hero 2
+
+
+
+Total até Falha 7
+	20 dias
+
+	
