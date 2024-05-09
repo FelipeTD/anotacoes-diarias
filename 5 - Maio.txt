@@ -37,6 +37,13 @@
 
     Estudo sobre login no react 2024 com typescript
 
+09/05/2024
+    Trabalho na dexian O Boticario
+
+    Estudo sobre login no react 2024 com typescript
+
+
+
 
 
 Backlog
