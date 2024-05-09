@@ -27,6 +27,16 @@
 
     Estudo sobre login com react com typescript 2024
 
+07/05/2024
+    Trabalho na dexian O Boticario
+
+    Jogando Incremental Hero 2
+
+08/05/2024
+    Trabalho na dexian O Boticario
+
+    Estudo sobre login no react 2024 com typescript
+
 
 
 Backlog
